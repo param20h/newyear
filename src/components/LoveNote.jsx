@@ -242,10 +242,7 @@ function LoveNote() {
                   </motion.h2>
                   
                   {[
-                    "As we step into 2025 together, I can't help but feel incredibly grateful for having you by my side. This is our first New Year together, and it's already so special.",
-                    "Every moment with you has been a treasure. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is my greatest gift.",
-                    "Thank you for being you – for your kindness, your warmth, and the way you make everything feel like magic. I'm so excited for all the memories we'll create together in this new year and beyond.",
-                    "Here's to us, to our love, and to many more beautiful years together. I love you more than words can express. ❤️"
+                    "❤️"
                   ].map((text, i) => (
                     <motion.p 
                       key={i}
